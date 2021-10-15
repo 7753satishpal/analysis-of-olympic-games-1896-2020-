@@ -11,4 +11,5 @@ https://www.kaggle.com/the-guardian/olympic-games
 Data from 2016 to 2021 was scraped from http://www.olympedia.org/ (there could with some missing data and minor errors)
 Unlike the original dataset, each team only show up once per medal, and not one row per athlete!
 # Insights
-## Medal by compatitors
+### Medal by compatitors
+
